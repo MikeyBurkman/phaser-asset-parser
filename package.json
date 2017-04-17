@@ -1,0 +1,23 @@
+{
+  "name": "phaser-asset-parser",
+  "version": "1.0.0",
+  "description": "Static asset parser for Phaser.io to an easy-to-use Typescript file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeyBurkman/phaser-asset-parser.git"
+  },
+  "author": "MikeyBurkman",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "folder-hash": "^1.1.1",
+    "globby": "^6.1.0",
+    "mz": "^2.6.0",
+    "pixl-xml": "^1.0.10",
+    "ramda": "^0.23.0"
+  }
+}
